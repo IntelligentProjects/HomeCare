@@ -44,3 +44,4 @@ export class AddressesPage implements OnInit {
   }
 
 }
+ 
